@@ -1,7 +1,9 @@
-# Project-1
 Event-Hunter
 Deployed Link
 https://cassidygroenendaal.github.io/Event-Hunter/
+
+Overview
+Event Hunter is an app that uses Ticketmaster and Google Maps to search for events and display additional information about them. There is even a day/night color scheme included!
 
 How to Use It
 Search for any event you're interested in in the search bar at the top of the page. You can click on any of the results to view more information about the event, such as:
